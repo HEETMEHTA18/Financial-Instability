@@ -23,7 +23,3 @@ build/
 Thumbs.db
 .vscode/
 .idea/
-# Ignore all JSON files except package.json and package-lock.json
-*.json
-!package.json
-!package-lock.json
