@@ -85,13 +85,13 @@ nav a {
 nav a:hover,
 nav a:focus {
   background: #4a90e2;
-  color: #fff;
+  color: #000000;
   border-color: #4a90e2;
 }
 
 /* Main Content Area */
 main {
-  background: #fff;
+  background: #9fa2a5;
   padding: 2rem;
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -109,15 +109,15 @@ main {
 h2 {
   font-size: 2rem;
   margin-bottom: 1rem;
-  color: #4a90e2;
-  border-bottom: 2px solid #ece9e6;
+  color: #161717;
+  border-bottom: 2px solid #1d1b90;
   padding-bottom: 0.5rem;
 }
 
 p {
   font-size: 1rem;
   margin-bottom: 1rem;
-  color: #666;
+  color: #571d1d;
 }
 
 /* Card Styles */
