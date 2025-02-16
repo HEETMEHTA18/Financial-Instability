@@ -10,7 +10,6 @@ The Financial Inclusion Web App is designed to provide banking and financial ser
 - **Financial Literacy**: Educational resources to help users make informed financial decisions.
 - **Bill Payments & Remittances**: Pay utility bills and send/receive money easily.
 - **Offline Access**: Supports transactions via SMS/USSD for users without internet access.
-- **Multilingual Support**: Available in multiple languages for wider accessibility.
 
 ## Tech Stack
 - **Frontend**: React.js
